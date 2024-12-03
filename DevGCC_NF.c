@@ -1,6 +1,5 @@
 //Nikole Florence
 //SWDV-460
-//11-12-24
 
 //parser and tree called from libmxl to parse xml files and create a tree from the nodes
 #include <stdio.h>
